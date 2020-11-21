@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ColorBlindTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play">PLAY</string>
+    <string name="gmbrhome">gmbrhome</string>
+    <string name="next">NEXT</string>
+    <string name="judulbenar">Jawaban Anda Tepat</string>
+    <string name="gmbrbenar">gmbrbenar</string>
+    <string name="submit">SUBMIT</string>
+    <string name="_21">21</string>
+    <string name="_14">14</string>
+    <string name="_74">74</string>
+    <string name="_11">11</string>
+    <string name="gmbrsoal">gmbrsoal</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="judulsalah">Jawaban Kurang Tepat</string>
+    <string name="gmbrsalah">gmbrsalah</string>
+</resources>
